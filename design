@@ -1,0 +1,20 @@
+      enter zipcode or select area on the map
+			________________
+			|		|choose btw:
+|avg error		|		|taxvalue
+|	(1)		|	(2)	|error
+|	    date	|		|bedcnt
+|________________	| leaflet map	|etc...
+			|		|
+___________  _______	|		|
+|	   | |	    |	|_______________|
+|histo of  | |histo |
+|land value| |error |	  (5) nbr of sales 	
+|___(3)____| |__(4)_|      period highlighted
+choose btw:		   in (1)
+bedroom cnt
+taxvalue
+etc...
+
+	- Rectangle select tool on the map to select area
+	- Rectangle select tool on the datetime chart to select period

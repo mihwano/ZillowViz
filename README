@@ -7,3 +7,12 @@ Interactive visualization of geospatial data using Kaggle Zillow dataset.
 - crossfilter (pandas for javascript: grouping/filtering data, before sending to d3 and leaflet)
 
 - d3.js and leaflet.js (charts and maps)
+
+
+
+
+1) Data preparation
+	- house data from kaggle zillow competition
+	- boundary data for the zip codes is from US census boundary shapefile
+	  NOTE: US gov. shapefile is loaded into QGIS. A new layer is created
+		containing only california zipcodes and saved as GEOJSON
