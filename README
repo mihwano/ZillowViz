@@ -1,1 +1,9 @@
 Interactive visualization of geospatial data using Kaggle Zillow dataset.
+
+- python/pandas (data backend)
+
+- keen io (layout for dashboard)
+
+- crossfilter (pandas for javascript: grouping/filtering data, before sending to d3 and leaflet)
+
+- d3.js and leaflet.js (charts and maps)
